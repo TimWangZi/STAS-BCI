@@ -1,7 +1,21 @@
 # STAS-BCI
-A Brain Computer Interface based on MustafaMelihCan/Custom-1-Channel-EEG-PCB-DSP
-# Current Work
-* The first version of the design has been handed over to the JLC.
-# Future Plan
-* We will assemble & test this circuit next week
-* Analysis EEG data by DeepLearning
+
+啥子都能做的脑电图电路
+
+## 项目目的
+
+设计一个实现简单，易懂的脑电图（EEG）电路。并希望给任何想要进行类似项目的人一个参考
+
+## 项目进度
+
+截止2026年11月2日，我们已经完成了：
+
+* 设计第一版单通道脑电电路并对其进行测试<img src="Docs\Img\IMG_20261029_193628.jpg" title="" alt="ver1" width="319">
+
+* 根据第一版存在的问题设计了第二版电路，并将其送去打印
+  
+  <img src="Docs\Img\Img2026-11-02%20085046.png" title="" alt="ver2" width="320">
+
+## 项目计划
+
+以后再说。。。
